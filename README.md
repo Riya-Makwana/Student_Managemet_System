@@ -15,15 +15,7 @@ A simple command-line based Student Management System built using Python. This s
 - Python 3.x
 
 ## ▶️ How to Run the Script
-1. Clone the Repository:
-   ```
-   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
-   ```
-2. Navigate to Directory:
-   ```bash 
-          cd Simple-Python-Mini-Projects/Student\ Management\ System
-   ```
-3. Run the Script:
+
    ```bash 
     python student_management.py
    ```
